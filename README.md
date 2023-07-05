@@ -1,6 +1,5 @@
 ## OpenDocs Documentation Template
 
-[Repository Description]:
 The OpenDocs Template is an open-source and freely available template designed to streamline the process of creating comprehensive documentation for web projects. It provides a modern and responsive layout, making it easy to present documentation in an organized and user-friendly manner.
 
 ### Features:
@@ -8,7 +7,6 @@ The OpenDocs Template is an open-source and freely available template designed t
 - Responsive layout: Documentation created using this template adapts to different screen sizes, making it accessible on various devices.
 - Easy customization: Developers can easily modify the template to match their project's branding and requirements.
 - Syntax highlighting: Code snippets within the documentation are highlighted, improving readability and understanding.
-- Table of contents: The template automatically generates a table of contents, allowing users to navigate through the documentation effortlessly.
 - Interactive examples: It supports the inclusion of interactive examples using JavaScript, enhancing the learning experience.
 
 ### Usage:
@@ -24,9 +22,9 @@ The OpenDocs Template is an open-source and freely available template designed t
 Contributions to this project are welcome! If you encounter any bugs or have suggestions for improvements, please open an issue or submit a pull request. By contributing, you'll be helping other developers create high-quality documentation for their projects.
 
 ### License:
-This template is released under the [insert license name] license. You are free to use, modify, and distribute it for both personal and commercial purposes. Refer to the LICENSE file for more information.
+This template is released under the MIT license. You are free to use, modify, and distribute it for both personal and commercial purposes. Refer to the LICENSE file for more information.
 
 ### Note:
 Please remember to provide attribution to the original template if you decide to use it in your project. Your support and contributions are greatly appreciated.
 
-Start creating exceptional documentation for your web projects with the HTML/CSS/JS Documentation Template! Let's simplify the process and help developers deliver clear and comprehensive documentation.
+Start creating exceptional documentation for your web projects with the OpenDocs Template! Let's simplify the process and help developers deliver clear and comprehensive documentation.
