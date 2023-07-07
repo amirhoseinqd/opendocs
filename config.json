@@ -1,0 +1,17 @@
+{
+    "colors": {
+        "primary-color": "#000",
+        "primary-color-hover": "#000",
+        "text-on-primary-color": "#000",
+        "secondary-color": "#000",
+        "secondary-color-hover": "#000",
+        "text-on-secondary-color": "#000",
+        "background-color": "#000",
+        "text-color": "#000",
+        "title-color": "#000",
+        "information-box-color": "#000",
+        "information-box-background": "#000",
+        "link-color": "#000",
+        "link-color-hover": "#000"
+    }
+}
