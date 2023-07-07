@@ -1,0 +1,13 @@
+{
+    "name": "opendocs",
+    "version": "1.0.0",
+    "description": "Open-source and freely available template designed to streamline the process of creating comprehensive documentation for web projects",
+    "scripts": {
+        "build": "node build.js"
+    },
+    "author": "Amirhosein Qadamgahi",
+    "license": "MIT",
+    "dependencies": {
+        "fs": "latest"
+    }
+}
